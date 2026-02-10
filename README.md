@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Shanawar-cloud
-- 👀 I’m interested in mobile aplication development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gulshanawar.de@gmail.com
+👋 Hi, I’m Shanawar
 
-<!---
-Shanawar-cloud/Shanawar-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Flutter developer with hands-on experience in building real apps  
+🌱 Working with Provider, BLoC & Clean Architecture  
+🧩 Built a Weather app and currently developing a News app  
+🔐 Experienced with Supabase authentication  
+🎯 Focused on scalable and maintainable Flutter applications
+
+📫 Reach me at: gulshanawar.de@gmail.com
+
